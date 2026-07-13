@@ -1,0 +1,48 @@
+PROJECT TITLE
+
+Smart Energy Consumption Analyzer
+
+Name: Maharshi Danidhariya
+
+PROBLEM STATEMENT
+
+Many households and organizations are unaware of their energy consumption patterns, leading to excessive electricity usage, higher electricity bills, and increased carbon emissions.
+
+An intelligent system is needed to analyze historical energy consumption data, predict future energy usage, and provide recommendations for reducing energy consumption and promoting sustainable living.
+
+OBJECTIVE
+
+1. Analyze electricity consumption data.
+2. Identify historical energy usage patterns.
+3. Predict future energy consumption using Machine Learning.
+4. Estimate future electricity costs.
+5. Generate energy-saving recommendations.
+6. Promote sustainable energy usage and reduce carbon footprint.
+
+--------------------------------------------------
+
+EXPECTED IMPACT
+
+- Reduce electricity wastage.
+- Lower electricity bills.
+- Increase awareness of sustainable energy usage.
+- Reduce carbon emissions.
+- Support green living and environmental sustainability.
+
+--------------------------------------------------
+
+SDGs SUPPORTED
+
+SDG 7 – Affordable and Clean Energy
+
+SDG 12 – Responsible Consumption and Production
+
+SDG 13 – Climate Action
+
+SDG 17 – Partnerships for the Goals
+
+--------------------------------------------------
+
+CONCLUSION
+
+The Smart Energy Consumption Analyzer uses Artificial Intelligence and Machine Learning to analyze historical electricity consumption data and predict future energy usage. By providing accurate forecasts and actionable energy-saving recommendations, the system helps individuals and organizations reduce energy wastage, lower electricity costs, and contribute to a more sustainable future.
